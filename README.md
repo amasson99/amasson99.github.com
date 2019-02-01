@@ -1,4 +1,4 @@
-# amasson99.github.com
+# <a href="alexanderjmasson.com">amasson99.github.com</a>
 SOURCES AND CREDITS:
 
 I've used the following resources as listed.
