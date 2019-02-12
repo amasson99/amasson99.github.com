@@ -1,4 +1,5 @@
 # <a href="http://www.alexanderjmasson.com">amasson99.github.com</a>
+Feel free to copy my site for personal use
 SOURCES AND CREDITS:
 
 I've used the following resources as listed.
@@ -16,7 +17,6 @@ Stock Photos and Graphics:
  - Morguefile.com (http://www.morguefile.com/)
 
 Javascript Files:
-
  - JQuery (http://jquery.com/)
  - FlexSlider by Woothemes (http://www.woothemes.com/flexslider/)
  - Modernizr (http://modernizr.com/)
